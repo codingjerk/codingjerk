@@ -11,5 +11,5 @@ Check out my most important stuff:
 
 - [Dotfiles](https://github.com/codingjerk/dotfiles) — configs of my setup
 - [Circum Vitae](https://github.com/codingjerk/cv) — for hiring / job offers
-- [Appdirsjs](https://github.com/codingjerk/appdirsjs) — my tiny JS library that have >800k weekly downloads, cause it's dependency of React Native
+- [Appdirsjs](https://github.com/codingjerk/appdirsjs) — my tiny JS library that have >1.2M weekly downloads, cause it's dependency of React Native
 - [Marcus](https://github.com/codingjerk/marcus) — chess engine I spend my free time on
