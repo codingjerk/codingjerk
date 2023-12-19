@@ -2,8 +2,8 @@
 
 ![](https://img.shields.io/badge/main_language-python-brightgreen?style=flat-square)
 ![](https://img.shields.io/badge/other_languages-rust,_js,_sql-brightgreen?style=flat-square)
-![](https://img.shields.io/badge/os-macos/archlinux-brightgreen?style=flat-square)
-![](https://img.shields.io/badge/text_editor-neovim/helix-brightgreen?style=flat-square)
+![](https://img.shields.io/badge/os-archlinux-brightgreen?style=flat-square)
+![](https://img.shields.io/badge/text_editor-helix-brightgreen?style=flat-square)
 
 Software engineer, amateur painter and linguistics enthusiast.
 
